@@ -1,0 +1,9 @@
+>AF381981.1 Homo sapiens haplotype L2 mitochondrion, complete genome: 44.00%
+>AF381982.1 Homo sapiens haplotype U31 mitochondrion, complete genome: 44.00%
+>AF381983.1 Homo sapiens haplotype U32 mitochondrion, complete genome: 44.00%
+>AF381985.1 Homo sapiens haplotype T5 mitochondrion, complete genome: 44.00%
+>AF381987.1 Homo sapiens haplotype J1b mitochondrion, complete genome: 44.00%
+>AF381988.1 Homo sapiens haplotype L1a mitochondrion, complete genome: 44.00%
+>AF381989.1 Homo sapiens haplotype U5 mitochondrion, complete genome: 44.00%
+>AF381990.1 Homo sapiens haplotype V mitochondrion, complete genome: 44.00%
+>AF381991.1 Homo sapiens haplotype L3b mitochondrion, complete genome: 44.00%
